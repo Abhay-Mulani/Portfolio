@@ -6,14 +6,9 @@
 
 # Website Preview
 
+https://github.com/user-attachments/assets/62d0f002-e646-44b0-a4aa-7ab4f78f933d
 
-
-
-https://github.com/user-attachments/assets/312edc6d-203b-482c-83f5-d89c507b53ba
-
-
-
-
+<img src="https://github.com/user-attachments/assets/7646f4b5-2858-4587-b45a-f78a622d3c76" width="600" height="350" />
 
 
 ## ⭐ Star me on GitHub — it helps!
