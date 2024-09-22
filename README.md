@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/62d0f002-e646-44b0-a4aa-7ab4f78f933d
 
 ✔️ Resume
 
-To view a live example, [click here](https://divy-gupta-engg.github.io/My_portfolio/)
+To view a live example, [click here](https://divy-gupta.github.io/My_portfolio/)
 
 # Tools Used 🛠️
 
