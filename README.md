@@ -6,12 +6,6 @@
  * ![Linkedin](https://i.sstatic.net/gVE0j.png)  [Linkedin](https://www.linkedin.com/in/divy-g-1506bb258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
 
 
-# Website Preview
-
-https://github.com/user-attachments/assets/62d0f002-e646-44b0-a4aa-7ab4f78f933d
-
-<img src="https://github.com/user-attachments/assets/7646f4b5-2858-4587-b45a-f78a622d3c76" width="600" height="350" />
-
 
 ## ⭐ Star me on GitHub — it helps!
 
