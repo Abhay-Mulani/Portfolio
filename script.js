@@ -229,3 +229,4 @@ window.addEventListener('resize', function() {
         navMenu.classList.remove('active');
     }
 });
+
