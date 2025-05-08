@@ -3,7 +3,6 @@
 # Personal Portfolio ⚡️
  * A clean, beautiful, responsive portfolio template for Software Developers!
 
- * ![Linkedin](https://i.sstatic.net/gVE0j.png)  [Linkedin](https://www.linkedin.com/in/divy-g-1506bb258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
 
 
 
@@ -41,8 +40,6 @@
 
 ✔️ Resume
 
-To view a live example, [click here](https://divy-gupta.github.io/My_portfolio/)
-
 # Tools Used 🛠️
 
 * GitHub Pages - To host my static website (HTML, CSS, JS).
@@ -64,4 +61,4 @@ To view a live example, [click here](https://divy-gupta.github.io/My_portfolio/)
 ### Step 3
    * 🔃 Create a new pull request.
 # License 📄
-This project is licensed under the MIT [License](https://github.com/DIVY-GUPTA/My_portfolio/blob/main/LICENSE) - see the LICENSE.md file for details.
+This project is licensed under the MIT [License] - see the LICENSE.md file for details.
